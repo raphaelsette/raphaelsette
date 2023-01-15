@@ -28,7 +28,7 @@
 
 <br>
 <div align="center">
-<a href="https://github.com/raphast" target="_blank" rel="noreferrer"><img src="https://img001.prntscr.com/file/img001/o4WTlSSjRvazQZHUSCqkyA.png" width="400px"/></a>
+<a href="https://github.com/raphast" target="_blank" rel="noreferrer"><img src="https://img001.prntscr.com/file/img001/xcwZciBXQUiBeZsp5L2MTQ.png" width="400px"/></a>
 
 ### Random Meme .. 😂😂
 
