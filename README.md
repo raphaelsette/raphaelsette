@@ -24,6 +24,7 @@
 <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white" alt="trello"/></a>
 <a href="https://notion.so/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white" alt="notion"/></a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white" alt="slack"/></a>
+<a href="https://chat.openai.com/chat" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChatGPT-412991.svg?logo=openai&logoColor=white" alt="slack"/></a>
 
 ##
 
