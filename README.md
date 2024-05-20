@@ -10,10 +10,11 @@
 <a href="https://w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" alt="css3"/></a>
 <a href="https://w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" alt="html5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="javascript"/></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" alt="javascript"/></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" alt="nodejs"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="python"/></a>
 <a href="https://php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white" alt="php"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" alt="mysql"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white" alt="postgresql"/></a>
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" alt="markdown"/></a>
 <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Xampp-FB7A24.svg?logo=xampp&logoColor=white" alt="xampp"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="vs code"/></a>
@@ -28,7 +29,8 @@
 <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white" alt="trello"/></a>
 <a href="https://notion.so/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white" alt="notion"/></a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white" alt="slack"/></a>
-<a href="https://chat.openai.com/chat" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChatGPT-412991.svg?logo=openai&logoColor=white" alt="slack"/></a>
+<a href="https://chat.openai.com/chat" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gemini-8E75B2.svg?logo=googlegemini&logoColor=white" alt="gemini"/></a>
+<a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChatGPT-412991.svg?logo=openai&logoColor=white" alt="chatgpt"/></a>
 
 ##
 
